@@ -1,0 +1,16 @@
+Num,Question,Correct,Incorrect1,Incorrect2,Incorrect3
+1,Which countries do cities of Perth Adelade & Brisbane belong to?,Australia,Austria,USA,Finland
+2,How many languages are written from right to left?,12,11,3,4
+3,Who was the first woman to win a Nobel Prize (in 1903)?,Marie Curie,Ada Lovelace,Maya Angelou,Rosa Parks
+4,What is the name of the largest ocean on earth?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Artic Ocean
+5,How long is an Olympic swimming pool (in metres)?,50 metres,40 metres,80 metres,30 metres
+6,What was the first soft drink in space?,Coca Cola,7up,Fanta,Pepsi
+7,Which country invented ice cream?,China,Japan,Italy,England
+8,From which country does Gouda cheese originate?,Netherlands,Belgium,France,Germany
+9,What is the common name for dried plums?,Prunes,Raisins,Sultanas,None of the above
+10,What is the primary ingredient in guacamole?,Avocado,Cheese,Onions,Peas
+11,With reference to python and Object Oriented Programming which of the following statements is true?,A class is blueprint for the object,You can only make a single object from the given class,Both statements are true,Neither statement is true
+12,What does the __init__() the function do in Python?,This function is called when a new object is instantiated,Initializes the class for use,Initializes all the data attributes to zero when called,None of the above
+13,In python and Object Oriented Programming where two classes have a Parent/Child relationship this is called…,Inheritance,Method overriding,Method overloading,None of the above
+14,Given a function that does not return any value: what value is shown when executed at the shell?,None,Int,Void,Bool
+15,Which of the following statements are true with respect to Class variables in Python Object Oriented Programming?,Class variables contain the same value across all instances of that class,Class variables contain values that are unique to each instance of a class,There is no such thing as a Class Variable in Python,None of the above
